@@ -1,12 +1,5 @@
 *~
-..gitignore.un~
 .DS_Store
-.map.txt.un~
-.map2.txt.un~
-.map3.txt.un~
 .swo
 .swp
-map.txt~
-map2.txt~
-map3.txt~
 venv/
